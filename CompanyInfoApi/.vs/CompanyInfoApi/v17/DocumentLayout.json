@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|c:\\users\\anne_\\onedrive\\desktop\\react apps\\dataentryprowebapi\\companyinfoapi\\controllers\\companyinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|solutionrelative:controllers\\companyinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|c:\\users\\anne_\\onedrive\\desktop\\react apps\\dataentryprowebapi\\companyinfoapi\\services\\companieshouseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|solutionrelative:services\\companieshouseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|c:\\users\\anne_\\onedrive\\desktop\\react apps\\dataentryprowebapi\\companyinfoapi\\services\\icompanieshouseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|solutionrelative:services\\icompanieshouseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|c:\\users\\anne_\\onedrive\\desktop\\react apps\\dataentryprowebapi\\companyinfoapi\\services\\companyinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|solutionrelative:services\\companyinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|c:\\users\\anne_\\onedrive\\desktop\\react apps\\dataentryprowebapi\\companyinfoapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|solutionrelative:data\\companyinfoapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|c:\\users\\anne_\\onedrive\\desktop\\react apps\\dataentryprowebapi\\companyinfoapi\\controllers\\companyinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|solutionrelative:controllers\\companyinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|c:\\users\\anne_\\onedrive\\desktop\\react apps\\dataentryprowebapi\\companyinfoapi\\companyinfoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|solutionrelative:companyinfoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -35,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|c:\\users\\anne_\\onedrive\\desktop\\react apps\\dataentryprowebapi\\companyinfoapi\\services\\companyinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|solutionrelative:services\\companyinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|c:\\users\\anne_\\onedrive\\desktop\\react apps\\dataentryprowebapi\\companyinfoapi\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|solutionrelative:services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|c:\\users\\anne_\\onedrive\\desktop\\react apps\\dataentryprowebapi\\companyinfoapi\\services\\icompanieshouseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|solutionrelative:services\\icompanieshouseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC3F12F9-635F-423A-88FE-F109DD831FD7}|CompanyInfoApi.csproj|c:\\users\\anne_\\onedrive\\desktop\\react apps\\dataentryprowebapi\\companyinfoapi\\services\\icompanyinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,50 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAFMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T11:28:26.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CompanyInfoApi.csproj",
-              "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\CompanyInfoApi.csproj",
-              "RelativeDocumentMoniker": "CompanyInfoApi.csproj",
-              "ToolTip": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\CompanyInfoApi.csproj",
-              "RelativeToolTip": "CompanyInfoApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-17T10:27:37.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "CompaniesHouseApiService.cs",
               "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Services\\CompaniesHouseApiService.cs",
               "RelativeDocumentMoniker": "Services\\CompaniesHouseApiService.cs",
               "ToolTip": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Services\\CompaniesHouseApiService.cs",
               "RelativeToolTip": "Services\\CompaniesHouseApiService.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAAMAAAASAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAxwBYAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T09:16:46.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CompanyInfoRepository.cs",
               "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Data\\CompanyInfoRepository.cs",
               "RelativeDocumentMoniker": "Data\\CompanyInfoRepository.cs",
@@ -121,12 +95,11 @@
               "RelativeToolTip": "Data\\CompanyInfoRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:08:59.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T09:08:59.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -134,18 +107,17 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAACMAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:05:27.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T09:05:27.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CompanyInfoController.cs",
               "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Controllers\\CompanyInfoController.cs",
               "RelativeDocumentMoniker": "Controllers\\CompanyInfoController.cs",
               "ToolTip": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Controllers\\CompanyInfoController.cs",
               "RelativeToolTip": "Controllers\\CompanyInfoController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T09:04:59.261Z",
               "EditorCaption": ""
@@ -153,6 +125,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CompanyInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Services\\CompanyInfoService.cs",
+              "RelativeDocumentMoniker": "Services\\CompanyInfoService.cs",
+              "ToolTip": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Services\\CompanyInfoService.cs",
+              "RelativeToolTip": "Services\\CompanyInfoService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:16:49.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICompaniesHouseApiService.cs",
+              "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Services\\ICompaniesHouseApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ICompaniesHouseApiService.cs",
+              "ToolTip": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Services\\ICompaniesHouseApiService.cs",
+              "RelativeToolTip": "Services\\ICompaniesHouseApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:16:55.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyInfoApi.csproj",
+              "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\CompanyInfoApi.csproj",
+              "RelativeDocumentMoniker": "CompanyInfoApi.csproj",
+              "ToolTip": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\CompanyInfoApi.csproj",
+              "RelativeToolTip": "CompanyInfoApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T10:27:37.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:28:26.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CompanyInfoApiContext.cs",
               "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Data\\CompanyInfoApiContext.cs",
               "RelativeDocumentMoniker": "Data\\CompanyInfoApiContext.cs",
@@ -160,12 +182,11 @@
               "RelativeToolTip": "Data\\CompanyInfoApiContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:05:13.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T09:05:13.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
@@ -173,25 +194,11 @@
               "RelativeToolTip": "Models\\ApplicationUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T10:35:58.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T10:35:58.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CompanyInfoService.cs",
-              "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Services\\CompanyInfoService.cs",
-              "RelativeDocumentMoniker": "Services\\CompanyInfoService.cs",
-              "ToolTip": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Services\\CompanyInfoService.cs",
-              "RelativeToolTip": "Services\\CompanyInfoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:16:49.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CompanyService.cs",
               "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Services\\CompanyService.cs",
               "RelativeDocumentMoniker": "Services\\CompanyService.cs",
@@ -199,21 +206,7 @@
               "RelativeToolTip": "Services\\CompanyService.cs",
               "ViewState": "AQIAACIAAAAAAAAAAIBJwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:16:51.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ICompaniesHouseApiService.cs",
-              "DocumentMoniker": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Services\\ICompaniesHouseApiService.cs",
-              "RelativeDocumentMoniker": "Services\\ICompaniesHouseApiService.cs",
-              "ToolTip": "C:\\Users\\anne_\\OneDrive\\Desktop\\React Apps\\dataEntryProWebAPI\\CompanyInfoApi\\Services\\ICompaniesHouseApiService.cs",
-              "RelativeToolTip": "Services\\ICompaniesHouseApiService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:16:55.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T09:16:51.492Z"
             },
             {
               "$type": "Document",
@@ -225,8 +218,7 @@
               "RelativeToolTip": "Services\\ICompanyInfoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:16:57.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T09:16:57.844Z"
             },
             {
               "$type": "Document",
@@ -238,8 +230,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-17T09:11:33.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T09:11:33.216Z"
             },
             {
               "$type": "Document",
@@ -251,8 +242,7 @@
               "RelativeToolTip": "Data\\ICompanyInfoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:17:35.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T09:17:35.194Z"
             },
             {
               "$type": "Document",
@@ -264,8 +254,7 @@
               "RelativeToolTip": "Models\\CompanyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:01:03.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T09:01:03.929Z"
             },
             {
               "$type": "Bookmark",
